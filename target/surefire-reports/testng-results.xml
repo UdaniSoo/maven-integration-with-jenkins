@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="75" started-at="2019-12-29T17:55:01 SGT" finished-at="2019-12-29T17:55:01 SGT">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="75" started-at="2019-12-29T17:55:01 SGT" finished-at="2019-12-29T17:55:01 SGT">
+      <class name="quickacademy.Mavenjava.AppiumTest">
+        <test-method status="PASS" signature="NativeAppAndroid()[pri:0, instance:quickacademy.Mavenjava.AppiumTest@2286778]" name="NativeAppAndroid" duration-ms="12" started-at="2019-12-29T17:55:01 SGT" finished-at="2019-12-29T17:55:01 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppAndroid -->
+        <test-method status="PASS" signature="NativeAppiOS()[pri:0, instance:quickacademy.Mavenjava.AppiumTest@2286778]" name="NativeAppiOS" duration-ms="0" started-at="2019-12-29T17:55:01 SGT" finished-at="2019-12-29T17:55:01 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppiOS -->
+      </class> <!-- quickacademy.Mavenjava.AppiumTest -->
+      <class name="quickacademy.Mavenjava.SeleniumTest">
+        <test-method status="PASS" signature="browserAutomation()[pri:0, instance:quickacademy.Mavenjava.SeleniumTest@6d7b4f4c]" name="browserAutomation" duration-ms="0" started-at="2019-12-29T17:55:01 SGT" finished-at="2019-12-29T17:55:01 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserAutomation -->
+        <test-method status="PASS" signature="elementUI()[pri:0, instance:quickacademy.Mavenjava.SeleniumTest@6d7b4f4c]" name="elementUI" duration-ms="0" started-at="2019-12-29T17:55:01 SGT" finished-at="2019-12-29T17:55:01 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementUI -->
+      </class> <!-- quickacademy.Mavenjava.SeleniumTest -->
+      <class name="quickacademy.Mavenjava.RESTApiTest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:quickacademy.Mavenjava.RESTApiTest@4e9ba398]" name="deleteTwitter" duration-ms="1" started-at="2019-12-29T17:55:01 SGT" finished-at="2019-12-29T17:55:01 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:quickacademy.Mavenjava.RESTApiTest@4e9ba398]" name="postJira" duration-ms="0" started-at="2019-12-29T17:55:01 SGT" finished-at="2019-12-29T17:55:01 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- quickacademy.Mavenjava.RESTApiTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
